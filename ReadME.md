@@ -1,4 +1,4 @@
-# Auto Manual 🚗🔧
+# Auto Manual
 
 Auto Manual is an Android application designed to act as a digital garage and maintenance log. It allows users to quickly import vehicle specifications via VIN decoding and keep track of specific maintenance jobs, required tools, and compatible parts.
 
